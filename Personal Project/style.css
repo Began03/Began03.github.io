@@ -1,0 +1,38 @@
+body {
+	border-style:solid;
+	border-width: 4px;
+	border-color: #d3a625;
+	border-radius: 10px;
+}
+#Intro {
+	color:	#d3a625;
+	font-size: 28px;
+	text-decoration: underline;
+	}
+
+#About {
+font-size: 23px;
+}
+
+body {
+background-color:	#740001;
+
+}
+
+.indent {
+	text-indent: 12px;
+}
+
+p {
+	text-indent: 12px;
+	font-size: 17px;
+}
+
+li {
+	font-size: 17px;
+}
+
+h3 {
+	color: #eeba30;
+	font-size: 20px;
+}
